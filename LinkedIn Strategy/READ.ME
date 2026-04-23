@@ -1,0 +1,105 @@
+# LinkedIn Strategy Skills for Designers
+
+Claude skills for building a real presence on LinkedIn — without sounding like everyone else.
+
+Each skill is tailored to a specific design discipline. Instead of explaining your goals every session, the skill loads your strategy automatically so Claude can write posts, plan content, and give advice grounded in your actual work.
+
+---
+
+## Skills by designer type
+
+| Designer type | Skill | Best for |
+|---|---|---|
+| Product designer · Lead designer · Founding designer · Design generalist | [`product-designer-linkedin-strategy`](./product-designer-linkedin-strategy/) | Designers who own the full product lifecycle across business, user, and technical dimensions |
+| UI designer · Visual designer · Interface designer · Design system designer | [`ui-designer-linkedin`](./ui-designer-linkedin/) | Designers whose work is primarily visual interfaces |
+| UX designer · UX researcher · Service designer · Interaction designer | [`ux-designer-linkedin`](./ux-designer-linkedin/) | Designers whose work is primarily research and user goals |
+| Digital designer · Graphic designer · Marketing designer · Social media designer | [`digital-designer-linkedin`](./digital-designer-linkedin/) | Designers who produce commercial visual content for platforms |
+
+> **UX/UI designer?** Start with `ui-designer-linkedin` if visuals are central to your work, or `ux-designer-linkedin` if you lean toward research and user goals.
+
+---
+
+## What each skill covers
+
+### [`product-designer-linkedin-strategy`](./product-designer-linkedin-strategy/)
+
+Built for designers who own the full product lifecycle — from discovery through delivery and iteration. Product designers sit at the intersection of user needs, business viability, and technical constraints, and their LinkedIn content should reflect that. This skill teaches you to lead with decisions and outcomes, not just craft.
+
+Covers: 7 content pillars (product decisions, business impact stories, cross-functional work, discovery, strategy takes, career stories, conversion), HPASS framework, humanized writing rules, profile optimization, goal-specific guidance for job seekers and consultants.
+
+### [`ui-designer-linkedin`](./ui-designer-linkedin/)
+
+Built around the one advantage UI designers underuse: their work is already visual. A great screenshot with three lines of context often beats 300 words.
+
+Covers: 7 content pillars specific to visual design (component breakdowns, interface teardowns, Figma workflows, visual trend takes), writing rules that keep posts from sounding AI-generated, post types for authority and conversion.
+
+### [`ux-designer-linkedin`](./ux-designer-linkedin/)
+
+Built for designers whose best work is invisible — research findings, usability sessions, journey maps, and the moments where advocacy changed a product decision. UX designers have to make invisible things visible through words. This skill is built around that.
+
+Covers: 7 content pillars (research insights, usability findings, methodology reveals, user advocacy moments, stakeholder work, field takes, conversion), writing rules that keep posts grounded and human, profile optimization that shows process not just polish.
+
+### [`digital-designer-linkedin`](./digital-designer-linkedin/)
+
+For designers who produce commercial visual content for digital platforms — social media graphics, web banners, email templates, display ads, campaign assets. Their output is already formatted for screens, which is exactly where LinkedIn lives.
+
+Covers: 7 content pillars (campaign breakdowns with metrics, before/after iteration, platform-specific design, client brief work, tools and workflow, visual trend takes, conversion), formatting rules, and writing guidance that sounds like someone who does client work every day.
+
+### [`humanize-writing`](./HUMANIZE.md)
+
+A writing editor that makes any text sound like a real person wrote it. Catches the patterns that give away AI-written content — parallel negation, tricolons, dramatic reveals, mirror sentences, inflation language — and rewrites them into something a human would actually say.
+
+Use this standalone or alongside the LinkedIn skills.
+
+---
+
+## How to install
+
+### Option 1 — Cowork (drag and drop)
+Download the skill folder and drag the `.skill` file into Claude's Cowork interface.
+
+### Option 2 — Claude Code (copy to skills directory)
+
+```bash
+cp -r designer-linkedin-strategy ~/.claude/skills/
+```
+
+Reload Claude Code. The skill appears in your available skills list automatically.
+
+### Option 3 — Paste as system prompt
+Each skill is a plain markdown file. Paste the contents of `SKILL.md` directly into a Claude project's custom instructions if you prefer not to use the skills system.
+
+---
+
+## How it works
+
+Skills load into Claude's context when you start a task that matches their description. You don't have to name the skill — Claude picks it up based on what you're asking for.
+
+Examples:
+- "Write me a LinkedIn post about my design system work" → triggers `ui-designer-linkedin`
+- "Give me 5 post ideas for this week" → triggers the relevant strategy skill
+- "This post sounds too AI, can you fix it?" → triggers `humanize-writing`
+
+Each skill folder:
+
+```
+skill-name/
+├── SKILL.md         — the main instructions Claude reads
+└── references/      — supporting files loaded on demand
+```
+
+---
+
+## Contributing
+
+These skills were built and tested using the [skill-creator](https://docs.claude.ai) workflow — running test prompts with and without the skill, grading outputs, and iterating until the difference was clear.
+
+If you want to adapt a skill for a different discipline (motion design, brand strategy, UX research, etc.): edit the content pillars and context-gathering questions in `SKILL.md`, then test a few real prompts against it and without it. The structure is the same across all skills.
+
+Pull requests welcome.
+
+---
+
+## License
+
+MIT
