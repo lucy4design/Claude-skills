@@ -1,0 +1,205 @@
+---
+name: ui-designer-linkedin
+description: >
+  LinkedIn content strategy and post-writing skill for UI designers — people whose work is primarily visual: interfaces, components, typography, color systems, spacing, animation, and design systems. Use this whenever a UI designer asks to write a LinkedIn post, get content ideas, plan their feed, work on their personal brand, or attract clients and employers through LinkedIn. Also triggers for visual designers, interface designers, and anyone whose craft is about how things look and feel on screen. Always use this skill for UI designer LinkedIn tasks — it bundles both strategy and humanized writing rules. Don't rely on generic LinkedIn or design knowledge.
+---
+
+# LinkedIn Strategy for UI Designers
+
+UI designers have something most designers underuse on LinkedIn: **their work is already visual.** A well-chosen screenshot, a before/after, a color palette with a clear reason behind it — these stop scrolls in a way that plain text can't. This skill is built around that advantage.
+
+---
+
+## Step 1: Gather Designer Context
+
+Ask before writing anything. One message, all at once. Infer from context if they've already shared it.
+
+```
+To write posts that actually sound like you and land with the right people, I need a few things:
+
+1. What kind of UI work do you do? (apps, websites, dashboards, design systems, brand/product, etc.)
+   Any specific industries? (consumer apps, fintech, SaaS, e-commerce, gaming, etc.)
+
+2. What's a piece of work you're proud of? Screenshot, project name, or just describe it.
+   A visual detail, a specific decision you made, or a measurable outcome if you have one.
+
+3. What's your goal on LinkedIn right now?
+   Job search, freelance clients, audience/community, thought leadership, or a mix?
+
+4. Who do you most want to see your posts?
+   (Creative directors, heads of design, startup founders, frontend devs, recruiters?)
+
+5. Where are you based, and open to remote?
+```
+
+If they're in a hurry, get #1 and #2 minimum and move. Never skip entirely.
+
+---
+
+## Content Strategy
+
+### The Mix
+
+- **70% Craft & Expertise** — visual breakdowns, design decisions, opinions on UI trends, process reveals, component work. This is what builds a reputation in the design community and with hirers.
+- **15% Personal / Behind the screen** — career moments, the ugly draft that became a great design, honest observations about the work. Humanizes without dominating.
+- **15% Conversion** — job-search posts, client offers, portfolio drops. Direct asks, done right.
+
+### Post Types
+
+| Type | Job | Frequency |
+|------|-----|-----------|
+| **Authority** | Show craft and point of view | 2 of every 3 posts |
+| **Visibility** | Reach new people with story or relatable take | 1 of every 3 posts |
+| **Conversion** | Direct ask — job or client | Max 1× per 2 weeks |
+
+UI designers should lean on visuals whenever possible. A great screenshot with 3 lines of context often beats 300 words.
+
+---
+
+## Content Pillars
+
+These are the 7 areas that work specifically for UI designers. Every post belongs to one.
+
+### 1. Visual Decision Breakdowns
+Explain a specific choice you made — a typeface, a color, a spacing system, a grid. Not just what, but why.
+- Show the decision with a screenshot or before/after if possible
+- Explain the reasoning: user behaviour, brand, accessibility, hierarchy
+- One decision per post. Specific beats comprehensive.
+- Examples: "Why I chose 16px base, not 14" / "The one color rule I never break in dashboard UI"
+
+### 2. Interface Teardowns
+Critique or praise the UI of an existing product — an app, a website, a component.
+- Be specific about what's working or not and why, not just "this feels off"
+- The most effective ones point at something people use every day and see differently
+- Praise is fine; honest critique gets more engagement but needs reasoning, not just opinion
+- Examples: "Three things [App]'s redesign got right" / "This loading state is doing work nobody talks about"
+
+### 3. Component & Design System Work
+Show a piece of a design system — a component, a pattern, a token system, a states breakdown.
+- The depth is the value: showing hover/focus/disabled states, naming decisions, spacing logic
+- Frontend devs and design leads love this content — it signals craft and systems thinking
+- Examples: "My button component has 9 states. Here's why each one exists" / "How I name spacing tokens"
+
+### 4. Figma & Tool Workflows
+A trick, a setup, a way of working that saves time or improves quality.
+- Show the actual Figma frame or workflow screenshot if possible
+- Should be a real discovery, not an obvious tip
+- Short posts work well here — one trick, one screenshot, done
+- Examples: "The Figma auto-layout property nobody uses but should" / "My component structure before vs. after I learned variants properly"
+
+### 5. Visual Trend Takes
+A genuine opinion on what's happening in UI design right now.
+- Pick a real position — bland takes get ignored
+- Ground it in something specific: a product, a pattern, a moment you noticed it
+- Examples: "Bento grid layouts are getting lazy" / "I think glassmorphism is making a real comeback and here's why that's fine" / "AI-generated UI is starting to look the same"
+
+### 6. Career & Process Stories
+The human side of being a UI designer.
+- The brief that made you rethink everything / the feedback that stung but was right
+- Three-part structure: where you were → what happened → what changed
+- Short is better. 150 words of real story beats 400 words of reflection.
+- These are visibility posts — broad appeal, designed to reach beyond your current followers
+
+### 7. Conversion Posts (Goal-specific)
+
+**For job seekers:**
+- Show a specific piece of work with a clear ask at the end
+- "I'm looking for a UI role where visual polish is taken seriously" is better than "open to work"
+- Always name the type of company or team you want — vague availability is forgettable
+
+**For freelancers:**
+- Speak to the client's problem, not your availability: "I help early-stage apps look like they're funded" beats "taking on clients"
+- Client outcomes framed visually: before/after screenshots with a one-line result
+- CTA should be a specific next step: DM, discovery call, link
+
+---
+
+## Writing a Post — HPASS Framework
+
+Use for authority and conversion posts.
+
+```
+H — Hook: The most interesting thing about this post, in 1–2 lines. Should work as a complete thought on mobile before "see more."
+
+P — Problem: What's the real issue or tension? Something the reader recognizes.
+
+A — Agitate: Why does it matter? What's the cost or the missed opportunity?
+
+S — Solve: Your specific insight, decision, or experience. The more concrete the better.
+
+S — Story (optional): Where I was → what I did → what happened. Even 2 sentences of real story works.
+
+CTA: A question that invites a real reply, or a direct ask if it's a conversion post. No "thoughts?" or "agree?" — ask something specific.
+```
+
+For visibility posts: story first → one lesson → question. Keep it short.
+
+---
+
+## Formatting
+
+- One idea per line. Always.
+- Hook must stand alone in 2 lines of mobile preview.
+- No bullet points in the post body — write sentences.
+- 2–3 hashtags at the very end. Core UI designer tags: #UIDesign #ProductDesign #DesignSystems
+- Emojis sparingly: 1–2 max if the designer's tone calls for them, zero if they prefer clean.
+- For posts with visuals: the image does work — keep the text even shorter.
+
+---
+
+## Profile Optimization
+
+Before any content strategy, make sure visitors convert:
+
+**Headline:** Not just a title. What you make + for what context + what it does.
+Example: *"UI Designer · Consumer Apps & SaaS · Interfaces people actually enjoy using"*
+
+**Banner:** Show work. A polished screenshot, a component grid, a color system — something that proves taste immediately.
+
+**About:** First person. Short. Who you are → what you make → what you're after. One visual reference or metric if possible. End with a CTA.
+
+**Featured:** Best project (screenshot + 1-line outcome), portfolio link, or best-performing post.
+
+**Experience:** One visual or metric outcome per role. "Redesigned the onboarding flow" is weak. "Redesigned onboarding — signup completion went from 54% to 71%" is strong.
+
+---
+
+## Commenting Strategy
+
+The fastest way to get in front of the right people before they follow you: comment on their posts first.
+
+- Find 10–15 target accounts (creative directors, design leads, founders, frontend devs at companies you want to reach)
+- Comment within 30–60 minutes of their posts — before the algorithm locks distribution
+- Add a real observation, a follow-up question, or a relevant experience. Two sentences minimum.
+- "Great post!" is invisible. Say something specific.
+
+15–20 min/day. Do it consistently for 3–4 weeks before expecting results.
+
+---
+
+## Posting Frequency
+
+- Minimum 3 posts/week to stay algorithm-active
+- 4–5 posts/week during active job search or client push
+- Suggested mix: authority Mon + authority Wed + visibility/story Fri + optional conversion Thu (max 1× per 2 weeks)
+
+---
+
+## When Writing a Post
+
+Check these before finishing:
+
+1. Does it belong to one of the 7 pillars?
+2. Authority, visibility, or conversion?
+3. Does the hook work alone on mobile in 2 lines?
+4. Is there a specific visual, decision, or detail anchoring this — or is it generic?
+5. Does the CTA match the goal?
+
+**Default tone:** Direct, specific, a little opinionated. Sounds like someone who cares about craft and can explain it clearly. Not corporate, not over-enthusiastic, not hedged.
+
+**Always avoid:**
+- "Excited to share" openers
+- Generic takes that could apply to any designer anywhere
+- Humblebrags without substance
+- Tricolons, parallel negation, dramatic reveals
+- Asking for work without showing work first
