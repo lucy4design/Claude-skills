@@ -1,0 +1,174 @@
+# CV Adaptation Guide — For Designers
+
+This guide explains how to tailor a designer's CV/resume for specific roles.
+It goes deeper than the summary in SKILL.md, with examples by design speciality.
+
+---
+
+## Core Philosophy
+
+A CV doesn't get you the job — it gets you the interview. The goal is not perfection,
+it's relevance. Every adaptation should answer the question the hiring manager is silently asking:
+*"Can this person do what I specifically need right now?"*
+
+---
+
+## The Three-Layer Adaptation
+
+### Layer 1 — Vocabulary Match (10 minutes)
+
+Read the JD and highlight every meaningful noun and verb. Then scan the CV.
+For each JD term not in the CV, ask: is this something the designer has actually done?
+If yes → rewrite that bullet to use the JD's exact language.
+If no → don't fabricate it, but note the gap.
+
+**Example:**
+JD says "design tokens" and "component library". CV says "design system".
+Adaptation: change "Maintained design system" → "Built and maintained a component library with 200+ design tokens in Figma"
+
+### Layer 2 — Impact Reframing (20 minutes)
+
+Convert task descriptions to outcome statements. Use this formula:
+`[Action verb] + [what you did] + [measurable result/scale] + [context]`
+
+| Before | After |
+|---|---|
+| "Designed the checkout flow" | "Redesigned 4-step checkout, reducing cart abandonment by 18% (A/B tested over 6 weeks)" |
+| "Worked with engineers" | "Partnered with 5 engineers across 3 squads in 2-week sprints, shipping 40+ components to production" |
+| "Created wireframes and prototypes" | "Led end-to-end UX for 3 core features from 0→1, validated through 20+ usability tests" |
+| "Improved the onboarding" | "Redesigned onboarding flow that increased 7-day retention by 12% for 50k new monthly users" |
+
+If no metric exists, use scale:
+- "for 200k daily active users"
+- "across a platform used in 18 countries"
+- "supporting a €40M product line"
+
+### Layer 3 — Section Reordering (5 minutes)
+
+The top third of the CV is what gets read. Ensure the most relevant experience leads.
+
+- For a **SaaS product role**: lead with B2B product work, not consumer apps
+- For a **growth/startup role**: lead with 0→1 shipped products, not agency work
+- For a **design systems role**: lead with component libraries, tokens, tooling
+- For a **senior IC role**: lead with complex problem-solving, not delivery volume
+
+---
+
+## By Design Speciality
+
+### Product Designer
+
+What companies look for:
+- End-to-end ownership (research → shipped feature)
+- Collaboration with PM and eng
+- Impact on product metrics
+- Systems thinking
+
+Key CV language to include:
+```
+"Owned the end-to-end design of..."
+"Collaborated with PM and engineering to define requirements..."
+"Shipped [feature] to [X] users, resulting in..."
+"Led discovery through usability testing, uncovering..."
+"Contributed to / maintained the design system..."
+```
+
+### UX Designer
+
+What companies look for:
+- Research fluency (generative + evaluative)
+- Synthesis and insight generation
+- Information architecture
+- Cross-functional influence through user data
+
+Key CV language to include:
+```
+"Conducted 12 in-depth interviews with [user type], synthesised into..."
+"Ran moderated usability tests on [product], identifying [N] critical issues"
+"Created journey maps and service blueprints for..."
+"Facilitated design sprints and workshops with [X] stakeholders"
+"Defined IA and navigation for [product area]..."
+```
+
+### UI / Visual Designer
+
+What companies look for:
+- Visual craft and taste
+- Figma/design tool mastery
+- Design system component ownership
+- Consistency at scale
+
+Key CV language to include:
+```
+"Designed and shipped [N] components to the design system"
+"Established visual language / design guidelines for..."
+"Created responsive UI across mobile, tablet, desktop using Figma"
+"Collaborated with brand team to align product UI with brand identity"
+"Conducted visual QA with engineering to ensure pixel-perfect output"
+```
+
+---
+
+## What Makes a Designer CV Stand Out
+
+1. **Numbers everywhere possible** — designers often have more data than they realise
+   (users, load time, NPS, error rates, session time, conversion)
+
+2. **Specificity over generality** — "Designed mobile app" tells nothing.
+   "Redesigned the iOS onboarding for a fintech app with 800k users, shipped in 6 weeks" tells a story.
+
+3. **Tools listed precisely** — not just "Figma" but:
+   "Figma (components, variables, auto-layout, prototyping, dev mode)"
+
+4. **A portfolio link that's front and centre** — ideally custom domain.
+   Put it at the top, not buried in contact info.
+
+5. **No objectives/summaries that are generic** — "Passionate designer with 5 years of experience"
+   is background noise. Try: "Senior Product Designer with 5 years in B2B SaaS, specialising
+   in data-dense interfaces and design system development."
+
+---
+
+## CV Length & Format Rules
+
+| Seniority | Ideal Length | Format |
+|---|---|---|
+| Junior (0–2 years) | 1 page | Clean, simple, portfolio-forward |
+| Mid (2–5 years) | 1–1.5 pages | 2-column OK if clean |
+| Senior (5+ years) | 1.5–2 pages | 2 pages max, no more |
+| Lead / Director | 2 pages | Can include strategic initiatives |
+
+**File format**: Always PDF. Name it: `Firstname-Lastname-Product-Designer.pdf`
+
+**Font**: Readable at 10–11pt. Avoid novelty fonts. System fonts (Inter, Helvetica) work well.
+
+**Colour**: One accent colour maximum. Ensure accessibility (contrast ratio ≥4.5:1).
+
+---
+
+## The Portfolio Section
+
+For designers, the CV is often secondary to the portfolio. Handle the portfolio line carefully:
+
+```
+Portfolio: website
+          [or] notion.so/your-case-studies
+          [or] behance.net/username
+```
+
+If case studies are gated (password-protected):
+- Always include the password in the cover letter or application
+- Consider ungating for senior/lead roles — makes the screening easier
+
+---
+
+## Common Mistakes to Avoid
+
+- **Listing tools as skills** without showing what you built with them
+- **Responsibility-focused bullets** with no outcome ("Responsible for UX of X")
+- **Too much agency work described as product work** — be honest about the context
+- **Design skills that are now table stakes** as headline items (e.g. "proficient in Figma" is expected)
+- **Undated or overlapping employment gaps** — address gaps proactively with a note
+- **Inconsistent tense** — use past tense for past roles, present for current
+
+---
